@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: javax.mail-api-1.6.2.jar javax.mail.jar ojdbc8.jar postgre
+ sql-42.2.5.jar jjwt-api-0.10.6.jar jjwt-impl-0.10.6.jar jjwt-orgjson-
+ 0.10.6.jar javax.activation-api-1.2.0.jar activation-1.1.1.jar
+Main-Class: Server
+

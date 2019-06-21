@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab7_Server:jar">
+    <output-path>$PROJECT_DIR$/out/production/Lab7_Server/artifacts/Lab7_Server_jar</output-path>
+    <root id="archive" name="Lab7_Server.jar">
+      <element id="module-output" name="Lab7_Server" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/postgresql-42.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/ojdbc8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/jjwt-api-0.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/jjwt-impl-0.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/jjwt-orgjson-0.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/javax.mail-api-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/javax.activation-api-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/libraries/activation-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
